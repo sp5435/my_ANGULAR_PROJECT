@@ -1,4 +1,4 @@
-<br><br>
+
 <!-- <h2>{{firstName}}</h2> -->
 <!-- <h2 class="user-name">WelCome {{studentName}}</h2><br>
 <div class = "container">
@@ -41,30 +41,40 @@
 <!-- <p>{{isFavCity == false}}</p>
 <p>{{isFavCity === false}}</p> -->
 <!-- <p>{{amount === 5600}}</p> if data type is different then it will through an error -->
-{{myName}}
+<!-- {{myName}}
 <p>{{isFavCity}}</p> 
 <br>
 <input type="text" [value]="myName"><br><br>
 <input type="radio" [checked]="gender"><br>
 <input type="text" value = "{{myName}}"><br><br>
 
-<!-- <input type="text" disabled = "{{isDisabled}}"><br><br>   we can not use interpollation majorly with disabled atteribute -->
+<input type="text" disabled = "{{isDisabled}}"><br><br>   we can not use interpollation majorly with disabled atteribute
 <input type="text" [disabled] = "isDisabled"><br>
 
-<!-- 3.EventBinding () (click),(focus) (blur) etc-->
-<br>
-<button (click)="testingEventBinding()">Click...</button>
-{{eventBindingData}}
-<br><br>
+3.EventBinding () (click),(focus) (blur) etc -->
+<!-- <br> -->
+<!-- <button (click)="testingEventBinding()">Click...</button> -->
+<!-- {{eventBindingData}} -->
+<!-- <br><br> -->
 
 <!-- Two way Data binding -->
- <input type="text" [(ngModel)] = "twoWayBindingTest"> 
+ <!-- <input type="text" [(ngModel)] = "twoWayBindingTest">  -->
 
-{{twoWayBindingTest}}
+<!-- {{twoWayBindingTest}} -->
 
-<button (click)="test()">click to print </button> 
+<!-- <button (click)="test()">click to print </button>  -->
 
-<br><br><br><br><br><br>
+
+
+<!-- <app-login></app-login>
+<app-signup></app-signup> -->
+ <!-- <a href="login">click</a>          xxxxxxxxxxxxxxxxxxxxxx -->
+ <!-- <a routerLink = "login"> click</a> -->
+<!-- <button routerLink = "Signup"> Signup</button> -->
+
+ <router-outlet></router-outlet>
+
+
  
 
 
