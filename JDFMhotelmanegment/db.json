@@ -1,0 +1,248 @@
+{
+  "admin": [],
+  "user": [],
+  "owner": [
+    {
+      "UserName": "sourabh patil",
+      "Email": "patilsourabhsp1999@gmail.com",
+      "Mobile": "07972808213",
+      "Password": "sourabh5435",
+      "Gender": "male",
+      "id": 1
+    },
+    {
+      "UserName": "sp patil",
+      "Email": "patilsourabhsp1999@gmail.com",
+      "Mobile": "07972808213",
+      "Password": "9999999999",
+      "Gender": "male",
+      "id": 2
+    },
+    {
+      "UserName": "Srushti Dhopate",
+      "Email": "srushti24@gmail.com",
+      "Mobile": "07972808213",
+      "Password": "242424",
+      "Gender": "female",
+      "id": 3
+    },
+    {
+      "UserName": "pooja",
+      "Email": "pooja@gmail.com",
+      "Mobile": "02323232323",
+      "Password": "303030",
+      "Gender": "female",
+      "id": 4
+    },
+    {
+      "UserName": "pooja",
+      "Email": "pooja@gmail.com",
+      "Mobile": "02323232323",
+      "Password": "303030",
+      "Gender": "female",
+      "id": 5
+    },
+    {
+      "UserName": "sunny",
+      "Email": "sunny1@gmail.com",
+      "Mobile": "9156421233",
+      "Password": "7777777",
+      "Gender": "male",
+      "id": 6
+    },
+    {
+      "UserName": "parth",
+      "Email": "parth@gmail.com",
+      "Mobile": "1234567890",
+      "Password": "1111",
+      "Gender": "male",
+      "id": 7
+    },
+    {
+      "UserName": "parth",
+      "Email": "parth@gmail.com",
+      "Mobile": "1234567890",
+      "Password": "1111",
+      "Gender": "male",
+      "id": 8
+    },
+    {
+      "UserName": "ssp patil",
+      "Email": "patilsourabhsp1999@gmail.com",
+      "Mobile": "07972808213",
+      "Password": "888888",
+      "Gender": "male",
+      "id": 9
+    },
+    {
+      "UserName": "vijay",
+      "Email": "vijay@gmail.com",
+      "Mobile": "9975463149",
+      "Password": "7777",
+      "Gender": "male",
+      "id": 10
+    },
+    {
+      "UserName": "shree",
+      "Email": "shree@gmail.com",
+      "Mobile": "3333333333",
+      "Password": "shree2",
+      "Gender": "male",
+      "id": 11
+    },
+    {
+      "UserName": "manishapatil",
+      "Email": "manisha@gmail.com",
+      "Mobile": "4545454545",
+      "Password": "manisha2",
+      "Gender": "female",
+      "id": 12
+    }
+  ],
+  "hotelDetails": [
+    {
+      "ownerName": "sourabhpatil",
+      "ownerContact": "7972808213",
+      "hotelName": "Della resort",
+      "hotelAddress": "pune",
+      "hotelContact": "7972808213",
+      "hotelMenu": "veg&nonveg",
+      "roomsAvailable": "250",
+      "ownerCheck": ".......",
+      "password": "",
+      "id": 1
+    },
+    {
+      "ownerName": "srushtidhopate",
+      "ownerContact": "7058233227",
+      "hotelName": "spzhotel",
+      "hotelAddress": "pune",
+      "hotelContact": "7058233227",
+      "hotelMenu": "veg&nonveg",
+      "roomsAvailable": "",
+      "ownerCheck": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "ownerName": "srushtidhopate",
+      "ownerContact": "7058233227",
+      "hotelName": "thefaran",
+      "hotelAddress": "karad",
+      "hotelContact": "7058233227",
+      "hotelMenu": "",
+      "roomsAvailable": "",
+      "ownerCheck": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "ownerName": "",
+      "ownerContact": "",
+      "hotelName": "",
+      "hotelAddress": "",
+      "hotelContact": "",
+      "hotelMenu": "",
+      "roomsAvailable": "",
+      "ownerCheck": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "ownerName": "sourabh patil",
+      "ownerContact": "999999999",
+      "hotelName": "ddddd",
+      "hotelAddress": "ddddd",
+      "hotelContact": "9999999999",
+      "hotelMenu": "222",
+      "roomsAvailable": "2",
+      "ownerCheck": "22",
+      "password": "sourabhpatil7070",
+      "id": 11
+    },
+    {
+      "ownerName": "sourabh patil",
+      "ownerContact": "999999999",
+      "hotelName": "ddddd",
+      "hotelAddress": "ddddd",
+      "hotelContact": "9999999999",
+      "hotelMenu": "222",
+      "roomsAvailable": "2",
+      "ownerCheck": "22",
+      "password": "sourabhpatil7070",
+      "id": 12
+    },
+    {
+      "ownerName": "sourabh patil",
+      "ownerContact": "999999999",
+      "hotelName": "ddddd",
+      "hotelAddress": "ddddd",
+      "hotelContact": "9999999999",
+      "hotelMenu": "222",
+      "roomsAvailable": "2",
+      "ownerCheck": "22",
+      "password": "sourabhpatil7070",
+      "id": 13
+    },
+    {
+      "ownerName": "sourabh patil",
+      "ownerContact": "999999999",
+      "hotelName": "ddddd",
+      "hotelAddress": "ddddd",
+      "hotelContact": "9999999999",
+      "hotelMenu": "222",
+      "roomsAvailable": "2",
+      "ownerCheck": "22",
+      "password": "sourabhpatil7070",
+      "id": 14
+    },
+    {
+      "ownerName": "sourabh patil",
+      "ownerContact": "999999999",
+      "hotelName": "ddddd",
+      "hotelAddress": "ddddd",
+      "hotelContact": "9999999999",
+      "hotelMenu": "222",
+      "roomsAvailable": "2",
+      "ownerCheck": "22",
+      "password": "sourabhpatil7070",
+      "id": 15
+    },
+    {
+      "ownerName": "sourabh patil",
+      "ownerContact": "999999999",
+      "hotelName": "sahara",
+      "hotelAddress": "sangli",
+      "hotelContact": "9999999999",
+      "hotelMenu": "veg&nonveg",
+      "roomsAvailable": "2",
+      "ownerCheck": "22",
+      "password": "sourabhpatil7070",
+      "id": 16
+    },
+    {
+      "ownerName": "sourabh patil",
+      "ownerContact": "999999999",
+      "hotelName": "velly city",
+      "hotelAddress": "lonavala",
+      "hotelContact": "9999999999",
+      "hotelMenu": "veg&nonveg",
+      "roomsAvailable": "2",
+      "ownerCheck": "22",
+      "password": "sourabhpatil7070",
+      "id": 17
+    },
+    {
+      "ownerName": "poojakhot",
+      "ownerContact": "999999999",
+      "hotelName": "pkresort",
+      "hotelAddress": "mahablewashar",
+      "hotelContact": "9999999999",
+      "hotelMenu": "veg&nonveg",
+      "roomsAvailable": "2",
+      "ownerCheck": "22",
+      "password": "sourabhpatil7070",
+      "id": 18
+    }
+  ]
+}
